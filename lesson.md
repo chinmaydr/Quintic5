@@ -10,8 +10,9 @@
 <hr class="line">
 <h2>Subtopics we plan on teaching</h2>
 
-<p>wget https://raw.githubusercontent.com/PaarasPurohit/apcompsciportfolio/master/_notebooks/2023-04-18-quintinpartone.ipynb</p>
-
+<a href = https://raw.githubusercontent.com/PaarasPurohit/apcompsciportfolio/master/_notebooks/2023-04-18-quintinpartone.ipynb> Lesson for first 3 Subtopics</a>
+<a href = https://raw.githubusercontent.com/PaarasPurohit/apcompsciportfolio/master/_notebooks/2023-04-18-quintinpartone.ipynb> Lesson for 4th and 5th Subtopics</a>
+    
 <p>1. Setting up machines with Conda Scripts</p>
 <p>2. Setting up GitHub Pages with FastPages features</p>
 <p>3. Building requirements and pull requests in GitHub</p>
